@@ -1,0 +1,66 @@
+algoritma 
+Algoritma KPK dari 3 dan 4
+=========================
+1. Bilangan 3 dan 4, masing masing akan ditambahkan dengan bilangan itu sendiri yang akan menjadikannya bilangan kelipatan
+2. jika bil1 lebih kecil dar bil2 maka kembali ke No.1
+3. hasil dari bil1 dan bil2 yang sama maka akan dihitung kelipatan terkecilnya
+
+pseudocode :
+
+bil1 = 3
+bil2 = 4
+while bil1 ≠ bil2 do
+       if bil1 < bil2 then
+	hasil1 = bil1 + bil1 
+      else bil1 > bil2 then
+	hasil2 = bil2 + bil2
+return 0;
+
+luas segitiga 
+==============
+algoritma
+1. meneyediakan sebuah 3 variable yaitu a,b dan c
+2. masukan nilai 25 pada variable a
+3. masukan nilai 30 pada b
+4. melakukan perhitungan dengan ketentuann (a*b/2)
+
+pseudecode:
+int a = alas, b = tinggi, c = 0;
+a = 25 ;
+b = 30 ;
+c = (a * b / 2);
+ 
+luas jajargenjang
+===========
+algoritma
+1. meneyediakan sebuah 3 variable yaitu L, a dan t
+2. masukan nilai 5 pada variable a
+3. masukan nilai 3 pada t
+4. melakukan perhitungan dengan ketentuann (L= A x T) 
+
+pseudecode :
+
+L = luasnya?;
+a = alas (5);
+t = tinggi (3);
+c = (L = 5*3) luasnya 15 cm; 
+
+luas volume tabung
+===============
+algoritma 
+1. meneyediakan rumus volume air dalam tabung yaitu ( v = pi x r x r x tinggi
+2. masukan nilai jari jarinya 3
+3 masukan nilai tinggi 
+
+kerucut
+======== 
+algoritma
+1 menyediakan rumus volume kerucut yaitu (1/3 x π x r x r x t)\
+2. masukan nilai jari jari yaitu 5
+3. masukan nilai tinggi yaitu 4
+
+pseudecode :
+v?
+jari jari = 5
+tinggi = 4
+1/3 x phi x 2,5 x 2,5 x 4 = 8,3
